@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+header {
+  font-size: 20px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: lightgreen;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#tribute-info {
+  background-color: lightgreen;
+}
+
+.content-wrap {
+    max-width: 800px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
